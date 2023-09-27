@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 public class PR121Files {
 
 
-  // Main
+  // Mainhj
   public static void main(String[] args) throws InterruptedException, IOException {
     String basePath = System.getProperty("user.dir") + "/Project/myFiles/";
         String fileName = "Arxiu.txt";
